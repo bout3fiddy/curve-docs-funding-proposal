@@ -1,12 +1,12 @@
-# Proposal for funding the development of CurveDocs (in-progress)
+# Proposal for funding the development of CurveDocs
 
 # Sentence Summary
 
-CurveDocs requests funding the [CurveDocs 2-of-5 Multisig](https://app.safe.global/settings/setup?safe=eth:0x960B77DAf61Ac184D396db23A77Ec391c9454605) with a grant amount of USD 144,000 or 320,000 CRV tokens at a rate of 0.45 USD per CRV token, for 12 months to hire two full-time paid maintainers for maintaining [Curve Docs](https://www.docs.curve.fi), [Curve Resources](https://www.resources.curve.fi) and Curve Notebooks (a collection of Jupyter Notebooks that interactively explain Curve contracts).
+CurveDocs requests funding the [CurveDocs 2-of-5 Multisig](https://app.safe.global/settings/setup?safe=eth:0x960B77DAf61Ac184D396db23A77Ec391c9454605) with a grant amount of USD 146,000 or 324,500 CRV tokens at a rate of 0.45 USD per CRV token, for 12 months to hire two full-time paid maintainers for maintaining [Curve Docs](https://www.docs.curve.fi), [Curve Resources](https://www.resources.curve.fi) and Curve Notebooks (a collection of Jupyter Notebooks that interactively explain Curve contracts).
 
 # History of Grant Applications
 
-CurveDocs, currently comprising one full-time paid maintainer and a part-time unpaid advisor, was [previously awarded 100,000 CRV tokens](https://etherscan.io/tx/0xddfc04666662bc94ab00520020dbce5502f8168076b0752cdbeea861abcde9e4) estimated at approximat3ely USD 80,000. The maintainer(s) (starting with two contributors and eventually one full-time contributor) set out to create and maintain [Curve Docs](https://www.docs.curve.fi) and [Curve Resources](https://www.resources.curve.fi), among other significant contributions.
+CurveDocs, currently comprising one full-time paid maintainer and a part-time unpaid advisor, was [previously awarded 100,000 CRV tokens](https://etherscan.io/tx/0xddfc04666662bc94ab00520020dbce5502f8168076b0752cdbeea861abcde9e4) estimated at approximately USD 80,000. The maintainer(s) (starting with two contributors and eventually one full-time contributor) set out to create and maintain [Curve Docs](https://www.docs.curve.fi) and [Curve Resources](https://www.resources.curve.fi), among other significant contributions.
 
 As of date, approximately USD 20,000 remains. These funds can sustain current work for approximately four more months.
 
@@ -20,9 +20,9 @@ Initial contributors:
 The Proposal entails work on appending/extending and improving Documentation involving the Curve platform (where platform: a set of smart contracts). On that note, there are three aspects:
 
 - Maintaining existing documentation.
-    - Gathering feedback from community to improve existing docs, resources on the Curve plaform.
-    - Liason with Curve core contributors to gauge improvements to existing documentation.
-- Adding missing documentation (docs and resourceS) on existing and upcoming extensions to Curve's plaform.
+    - Gathering feedback from community to improve existing docs and resources.
+    - Liaison with Curve core contributors to gauge improvements to existing documentation.
+- Adding missing documentation (docs and resources) on existing and upcoming extensions.
     - Add documentation on Curve x-gov, x-dao (Existing applications that are undocumented).
     - Add documentation on upcoming Curve lending platform.
 - Creating an interactive hub with hosted jupyter notebooks for understanding and interacting with Curve's smart contracts, encompassing:
@@ -35,7 +35,7 @@ All code written is publicly hosted on the CurveDocs organization: https://githu
 - Resources: https://resources.curve.fi/ 
 - Notebooks: A first rough version of these notebooks (yet to be hosted) can be found here (https://github.com/CurveDocs/curve-notebook)
 
-Workload will involve two fulltime maintainers. Proposers are actively seeking and have found potential second full-time contributor from the WenLlama community.
+Workload will involve two full-time maintainers. Proposers are actively seeking and have found a potential second full-time contributor from the WenLlama community.
 
 # Achievements
 
@@ -49,7 +49,7 @@ Workload will involve two fulltime maintainers. Proposers are actively seeking a
     - StableswapExchange: overhaul of the existing Stableswap documentation, and adding stableswap-ng.
     - CryptoSwap: added regular cryptoswap, tricrypto-ng, and twocrypto-ng (pretty much done) documentation.
     - crvUSD: added technical documentation for all relevant contracts.
-    - Pool Factory: Added detailed overviews for all factories, deployment apis, etc.
+    - Pool Factory: Added detailed overviews for all factories, deployment APIs, etc.
     - Metaregistry
     - New section dedicated to public audits, whitepapers, and a comprehensive list of deployed contracts.
 
@@ -71,12 +71,13 @@ Workload will involve two fulltime maintainers. Proposers are actively seeking a
 
 The proposal is endorsed by [fiddyresearch](https://github.com/bout3fiddy), who maintain a consistent track record of contributing to Curve.
 
-The ask is: USD 144,000 or 320,000 CRV tokens at a rate of 0.45 USD per CRV token (a buffer taken to account for CRV token's price volatility). This entails a payment of USD 6,000 per contributor per month, payable in any way the contributors deem fit for their accounting purposes.
+The ask is: USD 146,000 or 324,500 CRV tokens at a rate of 0.45 USD per CRV token (a buffer taken to account for CRV token's price volatility). This entails a payment of USD 6,000 per contributor per month, payable in any way the contributors seem fit for their accounting purposes, USD 240 per year for Vercel hosting and USD 1,500 per year for [MkDocs Sponsorship](https://github.com/sponsors/squidfunk/).
+
 
 
 # Payment Details
 
-[CurveDocs 2-of-5 Multisig](https://app.safe.global/settings/setup?safe=eth:0x960B77DAf61Ac184D396db23A77Ec391c9454605) with a grant amount of USD 144,000 or 320,000 CRV tokens at a rate of 0.45 USD per CRV token (since the start of writing this proposal at 14th Feb 2024, CRV is priced on Binance at USD 0.52 per CRV token. A buffer has been established to account for volatility).
+[CurveDocs 2-of-5 Multisig](https://app.safe.global/settings/setup?safe=eth:0x960B77DAf61Ac184D396db23A77Ec391c9454605) with a grant amount of USD 146,000 or 324,500 CRV tokens at a rate of 0.45 USD per CRV token (since the start of writing this proposal at 14th Feb 2024, CRV is priced on Binance at USD 0.52 per CRV token. A buffer has been established to account for volatility).
 
 Signers involve:
 
